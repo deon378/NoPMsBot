@@ -10,7 +10,4 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 There is an [ongoing issue](https://github.com/SpEcHiDe/NoPMsBot/issues/4) which makes, the use of [the official applications](https://telegram.dog/apps), cubersome for the effective utilization of this robot.
 
 
-## Credits, and Thanks to
 
-* [ThankTelegram](https://telegram.dog/ThankTelegram)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
